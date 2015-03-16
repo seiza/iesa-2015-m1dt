@@ -10,3 +10,4 @@
 * choquet raphaël https://github.com/raphaChoquet/iesa-2015-m1dt
 * N'gora Prescillia https://github.com/pngora/iesa-2015-m1dt
 * Grégory Joly https://github.com/Gregory14/iesa-15-m1dt
+* Maxime Vaullerin https://github.com/Kcypher13/iesa-2015-m1dt/
