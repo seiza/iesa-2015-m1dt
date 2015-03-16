@@ -6,5 +6,4 @@
 * Saint Germain Thibault https://github.com/qhuit/iesa-2015-m1dt
 * Berlin Eric https://github.com/zeypo/iesa-2015-m1dt
 * Bouras Marine https://github.com/mbouras/iesa-2015-m1dt
-* Giordano Romain https://github.com/Airgio/iesa-2015-m1dt
-* Maxime Vaullerin https://github.com/Kcypher13/iesa-2015-m1dt/
+* ENOH Florian https://github.com/k6k/iesa-2015-m1dt
