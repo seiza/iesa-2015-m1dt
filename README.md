@@ -9,3 +9,4 @@
 * riquier claire https://github.comClaireRiquier/ieasa-15-m1dt
 * choquet raphaël https://github.com/raphaChoquet/iesa-2015-m1dt
 * Enoh Florian https://github.com/k6k/iesa-2015-m1dt
+* Grégory Joly https://github.com/Gregory14/iesa-15-m1dt
