@@ -6,7 +6,7 @@
 1. Saint Germain Thibault https://github.com/qhuit/iesa-2015-m1dt
 1. Berlin Eric https://github.com/zeypo/iesa-2015-m1dt
 1. Bouras Marine https://github.com/mbouras/iesa-2015-m1dt
-1. riquier claire https://github.com/ClaireRiquier/ieasa-15-m1dt
+1. riquier claire https://github.com/ClaireRiquier/iesa-15-m1dt
 1. choquet raphaël https://github.com/raphaChoquet/iesa-2015-m1dt
 1. N'gora Prescillia https://github.com/pngora/iesa-2015-m1dt
 1. Grégory Joly https://github.com/Gregory14/iesa-15-m1dt
