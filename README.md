@@ -7,3 +7,4 @@
 * Berlin Eric https://github.com/zeypo/iesa-2015-m1dt
 * Bouras Marine https://github.com/mbouras/iesa-2015-m1dt
 * riquier claire https://github.comClaireRiquier/ieasa-15-m1dt
+* choquet raphaël https://github.com/raphaChoquet/iesa-2015-m1dt
