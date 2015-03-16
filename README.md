@@ -7,3 +7,4 @@
 * Berlin Eric https://github.com/zeypo/iesa-2015-m1dt
 * Bouras Marine https://github.com/mbouras/iesa-2015-m1dt
 * Giordano Romain https://github.com/Airgio/iesa-2015-m1dt
+* Maxime Vaullerin https://github.com/Kcypher13/iesa-2015-m1dt/
